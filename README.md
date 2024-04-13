@@ -1,16 +1,17 @@
-Weather Forecast Application
+# Weather Forecast Application
 SpringBoot app to fetch weather forecast summary and hourly forecast
 
-Postman and Swagger Url -
-POSTMAN COLLECTION - 
-SWAGGER URL - 
+## Postman and Swagger Url -
+- POSTMAN COLLECTION - 
 
-Postman Curls and Responses -
+- SWAGGER URL - 
 
-1. Get Weather Forecast Summary -
-curl
-Sample response :
+## Postman Curls and Responses -
 
-2. Get Weather Hourly Forecast -
-curl
-Sample response :
+### 1. Get Weather Forecast Summary -
+- curl
+- Sample response :
+
+### 2. Get Weather Hourly Forecast -
+- curl
+- Sample response :
